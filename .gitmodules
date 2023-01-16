@@ -1,0 +1,12 @@
+[submodule "output/core"]
+	path = output/core
+	url = https://github.com/ChocolateEngine/core
+[submodule "chocolate"]
+	path = chocolate
+	url = https://github.com/ChocolateEngine/chocolate
+[submodule "sidury"]
+	path = sidury
+	url = https://github.com/ChocolateEngine/sidury
+[submodule "output/sidury"]
+	path = output/sidury
+	url = https://github.com/ChocolateEngine/sidurygame

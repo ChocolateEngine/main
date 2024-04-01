@@ -10,3 +10,6 @@
 [submodule "output/sidury"]
 	path = output/sidury
 	url = https://github.com/ChocolateEngine/sidurygame
+[submodule "output/toolkit"]
+	path = output/toolkit
+	url = https://github.com/ChocolateEngine/toolkit
